@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "7iNHX1a0RPol0893XILRGk",
+    "id" : "6fj62277EamgrwXwQdZuet",
     "name" : "Mapping1",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000J17000000000002"
+        "repoHandle" : "0100SZ17000000000003"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -18,48 +18,10 @@
       "additionalInfo" : {
         "description" : "",
         "contentType" : "JSON",
-        "documentState" : "VALID"
+        "documentState" : "INVALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "objectRefs" : [ {
-    "id" : "4i7sqWieapDlNn4wUrkZwQ",
-    "name" : "SK_Con_FF_Auto",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01000J0B000000000002"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "Flat File connection for CMD Sorter Automation",
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    }
-  }, {
-    "id" : "3doKSG9Gy0Dl4HRVuaqciN",
-    "name" : "SK_Con_Oracle_Auto",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01000J0B000000000004"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "Oracle ODQAUTF8 connection for CMD Sorter automation",
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    }
-  } ]
+  "objectRefs" : [ ]
 }
